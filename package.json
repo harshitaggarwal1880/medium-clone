@@ -1,0 +1,20 @@
+{
+  "name": "medium3.0-mern-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitaggarwal1880/medium-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshitaggarwal1880/medium-clone/issues"
+  },
+  "homepage": "https://github.com/harshitaggarwal1880/medium-clone#readme"
+}
